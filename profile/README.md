@@ -1,5 +1,3 @@
-# LAUNCH COMING SOON!
-
 # Accessible: AI accessibility testing
      
   [Accessible](https://accessible.so) is an AI accessibility testing platform for websites and web apps. It
